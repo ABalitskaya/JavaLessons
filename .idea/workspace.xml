@@ -4,28 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d74d1a63-b55e-459c-bfc7-52c4645ff7c0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/BinaryTreeExamples.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/FileExamples.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/FunctionalInterfaces.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LambdaExamples.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/MainGraph.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/MapExamples.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/RegexExample2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/RegexExample3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/RegexExamples.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/TryCatchFinallyExamples.java" afterDir="false" />
+    <list default="true" id="d74d1a63-b55e-459c-bfc7-52c4645ff7c0" name="Changes" comment="added files from lessons">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,6 +43,21 @@
       <option name="presentableId" value="Default" />
       <updated>1684386672420</updated>
     </task>
+    <task id="LOCAL-00001" summary="added files from lessons">
+      <created>1684387335641</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1684387335642</updated>
+    </task>
+    <task id="LOCAL-00002" summary="added files from lessons">
+      <created>1684387450898</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1684387450898</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -75,5 +70,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="added files from lessons" />
+    <option name="LAST_COMMIT_MESSAGE" value="added files from lessons" />
   </component>
 </project>
