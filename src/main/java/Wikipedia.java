@@ -1,11 +1,10 @@
-import java.io.IOException;
 import java.net.URL;
 import java.net.URLConnection;
 import java.util.*;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
-public class RegexExample3 {
+public class Wikipedia {
     // пример парсинга сайта
 
     public static void main(String[] args) throws Exception {
